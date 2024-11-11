@@ -162,5 +162,5 @@ cython_debug/
 #.idea/
 
 # API
-API_KEY.txt
+API_KEY
 
