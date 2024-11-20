@@ -54,7 +54,7 @@ To get your NEWS API Key follow these steps:
     - Determine positive/negative or neutral sentiment
 3. **Simple text analysis using Bag of Words**
     - Converting text into numerical vectors by counting the frequency of each word in the document 
-    - Determine who send the mystery text
+    - Determine who send the mystery text (This was part of Coursera project)
 4. **Simple news articles analysis using frequency-inverse document frequency (tf-idf)**
     - Evaluating the importance of a word in article collections (news articles)
-    - Determining highest scoring term for each article
+    - Determining highest scoring term for each article (This was part of Coursera project)
